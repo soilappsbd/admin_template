@@ -1,0 +1,23 @@
+img.logo{
+	width: 100px;
+	padding: 10px;
+}
+
+.line_bottom{
+	border-bottom: 1px solid #ccc;
+	padding-bottom: 2px;
+	margin-bottom: 20px;
+}
+
+#navigation_bar{
+	
+	   background: #4CAF50 !important;
+	   width: 100%;
+	   color: #000;
+}
+
+#navigation_bar a{
+	
+	   color: #000;
+}
+

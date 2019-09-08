@@ -2,7 +2,7 @@
 			<div class="col">
 				<div class="card" style="">
 					<div class="card-body">
-						<table class="table  table-bordered">
+						<table class="table  mydatatable">
 						  <thead>
 							<tr>
 							  <th scope="col">#</th>
